@@ -1,7 +1,7 @@
 # Schedule for Class Project Presentations, Fall 2021
 
 - Nov 29:
-  - AAA
+  - Sarah Shy
   - BBB
   - CCC
 - Dec 2:
