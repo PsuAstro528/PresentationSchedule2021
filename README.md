@@ -1,21 +1,16 @@
 # Schedule for Class Project Presentations, Fall 2021
 
-- Nov 29:
-  - AAA
-  - BBB
-  - CCC
-- Dec 2:
-  - DDD
-  - EEE
-  - FFF
-- Dec 6:
-  - GGG
-  - HHH
-  - III
-- Dec 9:
-  - JJJ
-  - KKK
-  - LLL
+- Monday, Nov 29:
+  - Zeolla
+- Thursday, Dec 2:
+  - De Soto
+  - Nizam & Stone
+- Monday, Dec 6:
+  - Adhicary, Tusay & Parts
+- Thursday, Dec 9:
+  - Baer
+  - Hendricks
+  - Ogborn & Yadavalli
 
 ## How to reschedule your presentation:
 - If you need to reschedule your presentation, then please find another student to swap with and then submit a pull request proposing the swap.
