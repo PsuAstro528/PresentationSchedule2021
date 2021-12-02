@@ -3,12 +3,12 @@
 - Monday, Nov 29:
   - Zeolla
 - Thursday, Dec 2:
-  - De Soto
   - Nizam & Stone
   - Guest Q&A w/ [Christian Gilbertson](https://sites.psu.edu/chrisgil/)
 - Monday, Dec 6:
   - Adhicary, Tusay & Parts (45 min)
 - Thursday, Dec 9:
+  - De Soto
   - Baer
   - Hendricks
   - Ogborn & Yadavalli
