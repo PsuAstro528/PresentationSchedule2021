@@ -9,7 +9,6 @@
   - Adhicary, Tusay & Parts (45 min)
 - Thursday, Dec 9:
   - De Soto
-  - Baer
   - Hendricks
   - Ogborn & Yadavalli
 
